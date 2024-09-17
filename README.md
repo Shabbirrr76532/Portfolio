@@ -29,4 +29,4 @@ Alternatively, to host it locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shabbirrr76532/portfolio-website.git
+   git clone https://github.com/Yourusername/portfolio-website.git
