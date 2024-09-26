@@ -425,6 +425,15 @@ nav .fa-solid
     margin-top: -40px;
     display: block;
 }
+#phone a
+{
+  text-decoration: none;
+  color: #fff;
+}
+#email a{
+  text-decoration: none;
+  color: #fff;
+}
 
 
 
